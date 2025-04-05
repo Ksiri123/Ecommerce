@@ -2,17 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/48f0d244-f7f7-474e-9938-d5f469bb8886
+**URL**:https://ecommerceplatoform.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/48f0d244-f7f7-474e-9938-d5f469bb8886) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,11 +54,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/48f0d244-f7f7-474e-9938-d5f469bb8886) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes it is!
 
